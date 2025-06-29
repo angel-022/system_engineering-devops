@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 breeze breeze 4096 Jun 29 15:08 .
+drwxr-xr-x 6 breeze breeze 4096 Jun 28 19:12 ..
+-rwxr-xr-x 1 breeze breeze   32 Jun 28 19:17 0-hello_world
+-rwxr-xr-x 1 breeze breeze   28 Jun 28 19:56 1-confused_smiley
+-rwxr-xr-x 1 breeze breeze   28 Jun 28 20:00 2-hellofile
+-rwxr-xr-x 1 breeze breeze   39 Jun 28 20:01 3-twofiles
+-rwxr-xr-x 1 breeze breeze   29 Jun 28 20:03 4-lastlines
+-rwxr-xr-x 1 breeze breeze   29 Jun 28 20:04 5-firstlines
+-rwxr-xr-x 1 breeze breeze   40 Jun 28 20:05 6-third_line
+-rwxr-xr-x 1 breeze breeze   90 Jun 29 15:06 7-file
+-rwxr-xr-x 1 breeze breeze   36 Jun 29 15:08 8-cwd_state
+-rw-r--r-- 1 breeze breeze   26 Jun 28 19:23 README.md
+-rw-r--r-- 1 breeze breeze   12 Jun 28 20:07 \*\"'Best School'\"\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 breeze breeze   12 Jun 28 20:11 \*\"'Best School'\"\*$\?\*\*\*\*\*:\)
+-rw-r--r-- 1 breeze breeze   12 Jun 28 20:27 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 breeze breeze   12 Jun 28 20:20 \*\\'"Best School"\\'\*$\?\*\*\*\*\*:\)
+-rw-r--r-- 1 breeze breeze    0 Jun 29 15:08 ls_cwd_content
