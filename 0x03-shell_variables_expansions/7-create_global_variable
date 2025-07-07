@@ -1,1 +1,2 @@
-#!/bin/bash/nexport BEST="School"
+#!/bin/bash
+export BEST="School"
