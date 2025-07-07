@@ -1,1 +1,1 @@
-#!/bin/bash/necho "$((POWER / DIVIDE))"
+#!/bin/bash\ncho "$((POWER / DIVIDE))"
