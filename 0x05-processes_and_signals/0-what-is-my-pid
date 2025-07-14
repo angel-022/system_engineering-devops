@@ -1,2 +1,4 @@
-echo '#!/bin/bash
+#!/usr/bin/env bash
+# This script displays its own PID
 echo $$' > 0-what-is-my-pid
+
