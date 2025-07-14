@@ -1,4 +1,6 @@
-#!/usr/bin/env bash
-# This script displays its own PID
-echo $$' > 0-what-is-my-pid
+#!/bin/bash
+# 0-what-is-my-pid
+# This script displays its own Process ID (PID)
+
+echo $$
 
