@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# 5-dont_stop_me_now
+# This script stops the '4-to_infinity_and_beyond' process.
+
+pgrep -f "4-to_infinity_and_beyond" | xargs kill
