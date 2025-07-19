@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# 7-highlander
+# This script is an infinite loop that handles SIGTERM by printing a message.
+
+# Trap SIGTERM (signal 15)
+trap 'echo "I am invincible!!!"' SIGTERM
+
+while true; do
+    echo "To infinity and beyond"
+    sleep 2
+done
