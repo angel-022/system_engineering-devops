@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# This script lists all running processes in a human-readable format with hierarchy
+# Display all running processes in the required format with hierarchy
 
-ps -eo user,stat,time,cmd --forest
+ps -eo user=USER,stat=STAT,time=TIME,cmd=CMD --forest
