@@ -2,4 +2,6 @@
 # 8-beheaded_process
 # This script kills the '7-highlander' process using the SIGKILL signal.
 
-pkill -s 9 -f "7-highlander"
+# Find the PID(s) of the '7-highlander' script (matching full command line)
+# and send SIGKILL (signal 9) to them.
+pgrep -f "7-highlander" | xargs kill -9
