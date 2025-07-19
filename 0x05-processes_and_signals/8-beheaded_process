@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# 8-beheaded_process
+# This script kills the '7-highlander' process using the SIGKILL signal.
+
+pkill -s 9 -f "7-highlander"
