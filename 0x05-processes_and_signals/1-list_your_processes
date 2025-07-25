@@ -2,4 +2,4 @@
 # 1-list_your_processes
 # This script lists all currently running processes in a user-oriented, hierarchical format.
 
-ps -o user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,command --forest -axww
+ps -o user,pid,%cpu,%mem,vsz,rss,tty,stat,start=STARTED,time,command --forest -axww
