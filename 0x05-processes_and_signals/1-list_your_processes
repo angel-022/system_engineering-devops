@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # 1-list_your_processes
-# This script lists all currently running processes with a full user-friendly, hierarchical view.
 
-ps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,lstart,time,cmd --forest
+ps -eo user=USER,start=STARTED,cmd=CMD --sort=start
