@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays all running processes in a user-oriented format with hierarchy
+# A Bash script that displays all running processes in a tree-like format including non-TTY processes
 
-ps -axo user,pid,ppid,pgid,start,time,cmd --forest
+ps auxf
